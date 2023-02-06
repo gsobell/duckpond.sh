@@ -1,6 +1,13 @@
-# duckpond.sh 🦆
+# duckpond.sh
 
 First-ever fully POSIX compliant duck. Quack!
+
+```
+          _    quack!
+        _(.)-
+~~~~~~~~\__)~~~~~~~~
+```
+`
 
 ## Features
 - Looks like a duck
