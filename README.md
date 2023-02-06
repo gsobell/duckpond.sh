@@ -1,4 +1,4 @@
-# duckpond.sh
+# duckpond.sh 🦆
 
 First-ever fully POSIX compliant duck. Quack!
 
@@ -11,6 +11,6 @@ First-ever fully POSIX compliant duck. Quack!
 ## Usage 
 
 ```sh
-curl -O https://raw.githubusercontent.com/gsobell/duck_pond/home/duck.sh
+curl -O https://raw.githubusercontent.com/gsobell/duckpond/home/duckpond.sh
 sh duck.sh
 ```
