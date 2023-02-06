@@ -17,7 +17,6 @@ First-ever fully POSIX compliant duck. Quack!
 ## Usage 
 
 ```sh
-git clone https://github.com/gsobell/duckpond.git
-cd duckpond
-./duckpond.sh
+curl -O https://raw.githubusercontent.com/gsobell/duckpond/home/duckpond.sh
+sh duck.sh
 ```
