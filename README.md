@@ -7,7 +7,6 @@ First-ever fully POSIX compliant duck. Quack!
         _(.)-
 ~~~~~~~~\__)~~~~~~~~
 ```
-`
 
 ## Features
 - Looks like a duck
